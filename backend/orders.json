@@ -1,0 +1,32 @@
+[
+  {
+    "cart": [
+      {
+        "id": 1,
+        "title": "The Great Adventure",
+        "author": "John Doe",
+        "isbn": "978-3-16-148410-0",
+        "price": 19.99,
+        "currency": "USD",
+        "stock": 25,
+        "genre": "Adventure",
+        "description": "An exciting journey of exploration and discovery.",
+        "cover_image": "https://api-web.getepic.com/utils/resize.jpg?quality=100&url=https:%2F%2Fcdn.getepic.com%2Fdrm%2F6%2F78966%2Fcover_large%402x.png&width=1200"
+      }
+    ],
+    "personalDetails": {
+      "fullName": "dc",
+      "email": "cdcs",
+      "phone": "csdcdsc",
+      "address": "csdcsdc"
+    },
+    "paymentDetails": {
+      "cardHolderName": "dsscds",
+      "cardNumber": "6565",
+      "expiryDate": "31/31",
+      "cvv": "3132"
+    },
+    "totalPrice": 19.99,
+    "orderDate": "2025-01-29T19:31:58.846Z"
+  }
+]
